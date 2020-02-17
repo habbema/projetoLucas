@@ -1,0 +1,7 @@
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Core\bin\Debug\netcoreapp3.1\SistemaClinicas2.Core.deps.json
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Core\bin\Debug\netcoreapp3.1\SistemaClinicas2.Core.dll
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Core\bin\Debug\netcoreapp3.1\SistemaClinicas2.Core.pdb
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Core\obj\Debug\netcoreapp3.1\SistemaClinicas2.Core.AssemblyInfoInputs.cache
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Core\obj\Debug\netcoreapp3.1\SistemaClinicas2.Core.AssemblyInfo.cs
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Core\obj\Debug\netcoreapp3.1\SistemaClinicas2.Core.dll
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Core\obj\Debug\netcoreapp3.1\SistemaClinicas2.Core.pdb

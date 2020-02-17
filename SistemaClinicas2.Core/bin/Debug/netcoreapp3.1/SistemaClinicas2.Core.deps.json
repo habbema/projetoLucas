@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SistemaClinicas2.Core/1.0.0": {
+        "runtime": {
+          "SistemaClinicas2.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaClinicas2.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

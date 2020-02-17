@@ -1,0 +1,28 @@
+﻿@model IEnumerable<EspecialidadeViewModel>
+@{
+    ViewData["Title"]= "Especialidade";
+}
+
+<h1>Especialidade</h1>
+
+
+<p>
+    <a asp-action="Create">Adicionar Especialidade</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.Nome
+
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

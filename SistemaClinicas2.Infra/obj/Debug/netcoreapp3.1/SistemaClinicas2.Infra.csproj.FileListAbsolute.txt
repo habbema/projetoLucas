@@ -1,0 +1,15 @@
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\bin\Debug\netcoreapp3.1\SistemaClinicas2.Infra.deps.json
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\bin\Debug\netcoreapp3.1\SistemaClinicas2.Infra.runtimeconfig.json
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\bin\Debug\netcoreapp3.1\SistemaClinicas2.Infra.runtimeconfig.dev.json
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\bin\Debug\netcoreapp3.1\SistemaClinicas2.Infra.dll
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\bin\Debug\netcoreapp3.1\SistemaClinicas2.Infra.pdb
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\bin\Debug\netcoreapp3.1\SistemaClinicas2.Core.dll
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\bin\Debug\netcoreapp3.1\SistemaClinicas2.Dominio.dll
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\bin\Debug\netcoreapp3.1\SistemaClinicas2.Dominio.pdb
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\bin\Debug\netcoreapp3.1\SistemaClinicas2.Core.pdb
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\obj\Debug\netcoreapp3.1\SistemaClinicas2.Infra.csprojAssemblyReference.cache
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\obj\Debug\netcoreapp3.1\SistemaClinicas2.Infra.AssemblyInfoInputs.cache
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\obj\Debug\netcoreapp3.1\SistemaClinicas2.Infra.AssemblyInfo.cs
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\obj\Debug\netcoreapp3.1\SistemaClinicas2.Infra.csproj.CopyComplete
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\obj\Debug\netcoreapp3.1\SistemaClinicas2.Infra.dll
+C:\Users\Hugo Neto\source\repos\SistemaClinicas2\SistemaClinicas2.Infra\obj\Debug\netcoreapp3.1\SistemaClinicas2.Infra.pdb
